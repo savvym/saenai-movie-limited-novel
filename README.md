@@ -1,6 +1,6 @@
 # 剧场版特典小说
 ## About
-特典小说一共7本，电影上映一周一本，此生肉为小说扫描之后经过识别+人工校对之后的结果
+特典小说一共7本，电影上映一周一本，生肉为小说扫描之后经过识别+人工校对之后的结果，翻译版本为贴吧等找的翻译版本，保留汉化信息
 ## Word文档：
 度盘链接：[https://pan.baidu.com/s/1NIvFq1i35operw_HKh8zXw](https://pan.baidu.com/s/1NIvFq1i35operw_HKh8zXw)  
 提取码：yevy
@@ -11,8 +11,10 @@
 一浪のすえ大学に合格した倫也はサークルの再開を恵に宣言する。
 改めて彼女に「メインヒロイン」を要求する倫也に対し、恵は「主人公」として口説いてほしいと要望し……。  
 ```
-**HTML**: [01.html](https://zhanghd.tech/saenai-movie-novelty/One-Year-Later/01.html)  
-**PDF**: [01.pdf](https://zhanghd.tech/saenai-movie-novelty/One-Year-Later/01.pdf)  
+**HTML**: [01汉化.html](https://zhanghd.tech/saenai-movie-novelty/One-Year-Later/[CN]01.html)  
+**PDF**: [01汉化.pdf](https://zhanghd.tech/saenai-movie-novelty/One-Year-Later/[CN]01.pdf) 
+**HTML**: [01生肉.html](https://zhanghd.tech/saenai-movie-novelty/One-Year-Later/01.html)  
+**PDF**: [01生肉.pdf](https://zhanghd.tech/saenai-movie-novelty/One-Year-Later/01.pdf) 
 + ### 第2週目特典 冴えない彼女の育てかた After [Two Years Later]  
 ```
 あれから２年。
