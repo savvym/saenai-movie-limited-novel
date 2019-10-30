@@ -12,9 +12,9 @@
 改めて彼女に「メインヒロイン」を要求する倫也に対し、恵は「主人公」として口説いてほしいと要望し……。  
 ```
 **HTML**: [01汉化.html](https://zhanghd.tech/saenai-movie-novelty/One-Year-Later/[CN]01.html)  
-**PDF**: [01汉化.pdf](https://zhanghd.tech/saenai-movie-novelty/One-Year-Later/[CN]01.pdf) 
+**PDF**: [01汉化.pdf](https://zhanghd.tech/saenai-movie-novelty/One-Year-Later/[CN]01.pdf)  
 **HTML**: [01生肉.html](https://zhanghd.tech/saenai-movie-novelty/One-Year-Later/01.html)  
-**PDF**: [01生肉.pdf](https://zhanghd.tech/saenai-movie-novelty/One-Year-Later/01.pdf) 
+**PDF**: [01生肉.pdf](https://zhanghd.tech/saenai-movie-novelty/One-Year-Later/01.pdf)  
 + ### 第2週目特典 冴えない彼女の育てかた After [Two Years Later]  
 ```
 あれから２年。
