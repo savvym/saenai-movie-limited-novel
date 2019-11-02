@@ -1,9 +1,8 @@
-# 剧场版特典小说
+# 不起眼剧场版特典小说
 ## About
 特典小说一共7本，电影上映一周一本，生肉为小说扫描之后经过识别+人工校对之后的结果，翻译版本为贴吧等找的翻译版本，保留汉化信息
 ## Word文档：
-度盘链接：[https://pan.baidu.com/s/1NIvFq1i35operw_HKh8zXw](https://pan.baidu.com/s/1NIvFq1i35operw_HKh8zXw)  
-提取码：yevy
+Github仓库里有word文档，请自行下载：[不起眼剧场版特典小说仓库]](https://github.com/savvym/saenai-movie-novelty)  
 ## 在线查看
 + ### 第1週目特典 冴えない彼女の育てかた After [One Year Later]  
 ```
