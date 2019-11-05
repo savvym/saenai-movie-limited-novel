@@ -24,7 +24,7 @@ Github仓库里有word文档，请自行下载：[不起眼剧场版特典小�
 **PDF**: [02汉化.pdf](https://zhanghd.tech/saenai-movie-novelty/Two-Years-Later/cn02.pdf)  
 **HTML**: [02生肉.html](https://zhanghd.tech/saenai-movie-novelty/Two-Years-Later/02.html)  
 **PDF**: [02生肉.pdf](https://zhanghd.tech/saenai-movie-novelty/Two-Years-Later/02.pdf)   
-+ ### 第3週目特典 冴えない彼女の育てかた After 
++ ### 第3週目特典 冴えない彼女の育てかた After [Three Years Later]
 ```
 あれから３年。
 コンビを組んだ新作のヒットにより、新たな境地を切り開いた英梨々と詩羽。
