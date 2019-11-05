@@ -10,8 +10,8 @@ Github仓库里有word文档，请自行下载：[不起眼剧场版特典小�
 一浪のすえ大学に合格した倫也はサークルの再開を恵に宣言する。
 改めて彼女に「メインヒロイン」を要求する倫也に対し、恵は「主人公」として口説いてほしいと要望し……。  
 ```
-**HTML**: [01汉化.html](https://zhanghd.tech/saenai-movie-novelty/One-Year-Later/[CN]01.html)  
-**PDF**: [01汉化.pdf](https://zhanghd.tech/saenai-movie-novelty/One-Year-Later/[CN]01.pdf)  
+**HTML**: [01汉化.html](https://zhanghd.tech/saenai-movie-novelty/One-Year-Later/cn01.html)  
+**PDF**: [01汉化.pdf](https://zhanghd.tech/saenai-movie-novelty/One-Year-Later/cn01.pdf)  
 **HTML**: [01生肉.html](https://zhanghd.tech/saenai-movie-novelty/One-Year-Later/01.html)  
 **PDF**: [01生肉.pdf](https://zhanghd.tech/saenai-movie-novelty/One-Year-Later/01.pdf)  
 + ### 第2週目特典 冴えない彼女の育てかた After [Two Years Later]  
@@ -20,8 +20,8 @@ Github仓库里有word文档，请自行下载：[不起眼剧场版特典小�
 二十歳となり、成人式の場で久々に再会した恵と英梨々。
 式典をサボり、あの頃のように恵をモデルにしてカンバスに筆を走らせながら、英梨々は倫也の近況を探ろうとするが……。  
 ```  
-**HTML**: [02汉化.html](https://zhanghd.tech/saenai-movie-novelty/Two-Years-Later/[CN]02.html)   
-**PDF**: [02汉化.pdf](https://zhanghd.tech/saenai-movie-novelty/Two-Years-Later/[CN]02.pdf)  
+**HTML**: [02汉化.html](https://zhanghd.tech/saenai-movie-novelty/Two-Years-Later/cn02.html)   
+**PDF**: [02汉化.pdf](https://zhanghd.tech/saenai-movie-novelty/Two-Years-Later/cn02.pdf)  
 **HTML**: [02生肉.html](https://zhanghd.tech/saenai-movie-novelty/Two-Years-Later/02.html)  
 **PDF**: [02生肉.pdf](https://zhanghd.tech/saenai-movie-novelty/Two-Years-Later/02.pdf)   
 + ### 第3週目特典 冴えない彼女の育てかた After 
