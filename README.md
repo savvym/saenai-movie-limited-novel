@@ -20,6 +20,8 @@ Github仓库里有word文档，请自行下载：[不起眼剧场版特典小�
 二十歳となり、成人式の場で久々に再会した恵と英梨々。
 式典をサボり、あの頃のように恵をモデルにしてカンバスに筆を走らせながら、英梨々は倫也の近況を探ろうとするが……。  
 ```  
+**HTML**: [02汉化.html](https://zhanghd.tech/saenai-movie-novelty/Two-Years-Later/[CN]02.html)   
+**PDF**: [02汉化.pdf](https://zhanghd.tech/saenai-movie-novelty/Two-Years-Later/[CN]02.pdf)  
 **HTML**: [02生肉.html](https://zhanghd.tech/saenai-movie-novelty/Two-Years-Later/02.html)  
 **PDF**: [02生肉.pdf](https://zhanghd.tech/saenai-movie-novelty/Two-Years-Later/02.pdf)   
 + ### 第3週目特典 冴えない彼女の育てかた After 
