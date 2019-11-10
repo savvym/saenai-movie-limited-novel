@@ -30,7 +30,8 @@ Github仓库里有word文档，请自行下载：[不起眼剧场版特典小�
 コンビを組んだ新作のヒットにより、新たな境地を切り開いた英梨々と詩羽。
 二人でドライブしながら、「次の作品」について話し始める。  
 ```  
-**待更新······**  
+**HTML**: [03生肉.html](https://zhanghd.tech/saenai-movie-novelty/Three-Years-Later/03.html)  
+**PDF**: [03生肉.pdf](https://zhanghd.tech/saenai-movie-novelty/Three-Years-Later/03.pdf)    
 + ### 第4週目特典 冴えない彼女の育てかた After 
 ```
 あれから４年。
