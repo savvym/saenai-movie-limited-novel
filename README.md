@@ -34,7 +34,9 @@
 二人でドライブしながら、「次の作品」について話し始める。  
 ```  
 **HTML**: [03生肉.html](https://zhanghd.tech/saenai-movie-novelty/Three-Years-Later/03.html)  
-**PDF**: [03生肉.pdf](https://zhanghd.tech/saenai-movie-novelty/Three-Years-Later/03.pdf)    
+**PDF**: [03生肉.pdf](https://zhanghd.tech/saenai-movie-novelty/Three-Years-Later/03.pdf)  
+**HTML**: 03汉化.html(在做了)  
+**PDF**: 03汉化.pdf(~ing...)    
 + ### 第4週目特典 冴えない彼女の育てかた After 
 ```
 あれから４年。
