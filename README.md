@@ -1,10 +1,6 @@
 # 不起眼剧场版特典小说
 ## About
 特典小说一共7本，电影上映一周一本，生肉为小说扫描之后经过识别+人工校对之后的结果，翻译版本为贴吧等找的翻译版本，保留汉化信息
-## Word文档下载：
-- **第1週目特典 冴えない彼女の育てかた After [One Year Later]**: [第一話 一年後.docx](https://zhanghd.tech/saenai-movie-novelty/One-Year-Later/01.docx)  
-- **第2週目特典 冴えない彼女の育てかた After [One Year Later]**: [第二話 二年後.docx](https://zhanghd.tech/saenai-movie-novelty/Two-Years-Later/02.docx)  
-- **第3週目特典 冴えない彼女の育てかた After [One Year Later]**: [第三話 三年後.docx](https://zhanghd.tech/saenai-movie-novelty/Three-Years-Later/03.docx)  
 
 ## 在线查看
 + ### 第1週目特典 冴えない彼女の育てかた After [One Year Later]  
@@ -12,31 +8,25 @@
 あれから１年。
 一浪のすえ大学に合格した倫也はサークルの再開を恵に宣言する。
 改めて彼女に「メインヒロイン」を要求する倫也に対し、恵は「主人公」として口説いてほしいと要望し……。  
-```
-**HTML**: [01汉化.html](https://zhanghd.tech/saenai-movie-novelty/One-Year-Later/cn01.html)  
-**PDF**: [01汉化.pdf](https://zhanghd.tech/saenai-movie-novelty/One-Year-Later/cn01.pdf)  
-**HTML**: [01生肉.html](https://zhanghd.tech/saenai-movie-novelty/One-Year-Later/01.html)  
-**PDF**: [01生肉.pdf](https://zhanghd.tech/saenai-movie-novelty/One-Year-Later/01.pdf)  
+```  
+**第一話 一年後(汉化)**: [01汉化.html](https://zhanghd.tech/saenai-movie-novelty/One-Year-Later/cn01.html)   
+**第一話 一年後(生肉)**: [01生肉.html](https://zhanghd.tech/saenai-movie-novelty/One-Year-Later/01.html)    
 + ### 第2週目特典 冴えない彼女の育てかた After [Two Years Later]  
 ```
 あれから２年。
 二十歳となり、成人式の場で久々に再会した恵と英梨々。
 式典をサボり、あの頃のように恵をモデルにしてカンバスに筆を走らせながら、英梨々は倫也の近況を探ろうとするが……。  
 ```  
-**HTML**: [02汉化.html](https://zhanghd.tech/saenai-movie-novelty/Two-Years-Later/cn02.html)   
-**PDF**: [02汉化.pdf](https://zhanghd.tech/saenai-movie-novelty/Two-Years-Later/cn02.pdf)  
-**HTML**: [02生肉.html](https://zhanghd.tech/saenai-movie-novelty/Two-Years-Later/02.html)  
-**PDF**: [02生肉.pdf](https://zhanghd.tech/saenai-movie-novelty/Two-Years-Later/02.pdf)   
+**第二話 二年後(汉化)**: [02汉化.html](https://zhanghd.tech/saenai-movie-novelty/Two-Years-Later/cn02.html)     
+**第二話 二年後(生肉)**: [02生肉.html](https://zhanghd.tech/saenai-movie-novelty/Two-Years-Later/02.html)   
 + ### 第3週目特典 冴えない彼女の育てかた After [Three Years Later]
 ```
 あれから３年。
 コンビを組んだ新作のヒットにより、新たな境地を切り開いた英梨々と詩羽。
 二人でドライブしながら、「次の作品」について話し始める。  
 ```  
-**HTML**: [03生肉.html](https://zhanghd.tech/saenai-movie-novelty/Three-Years-Later/03.html)  
-**PDF**: [03生肉.pdf](https://zhanghd.tech/saenai-movie-novelty/Three-Years-Later/03.pdf)  
-**HTML**: 03汉化.html(在做了)  
-**PDF**: 03汉化.pdf(~ing...)    
+**第三話 三年後(汉化)**: 03汉化.html(在做了)  
+**第三話 三年後(生肉)**: [03生肉.html](https://zhanghd.tech/saenai-movie-novelty/Three-Years-Later/03.html)  
 + ### 第4週目特典 冴えない彼女の育てかた After 
 ```
 あれから４年。
@@ -63,3 +53,23 @@
 ※本特典の内容は劇場でご確認ください。  
 ```  
 **待更新······**  
+
+## Word文档下载：
+- **第1週目特典 冴えない彼女の育てかた After [One Year Later]**:   
+  - [第一話 一年後.docx](https://zhanghd.tech/saenai-movie-novelty/One-Year-Later/01.docx)  
+  - [第一話 一年後.pdf](https://zhanghd.tech/saenai-movie-novelty/One-Year-Later/01.pdf)   
+- **第2週目特典 冴えない彼女の育てかた After [Two Years Later]**:   
+  - [第二話 二年後.docx](https://zhanghd.tech/saenai-movie-novelty/Two-Years-Later/02.docx)  
+  - [第二話 二年後.pdf](https://zhanghd.tech/saenai-movie-novelty/Two-Years-Later/02.pdf)
+- **第3週目特典 冴えない彼女の育てかた After [Three Years Later]**:   
+  - [第三話 三年後.docx](https://zhanghd.tech/saenai-movie-novelty/Three-Years-Later/03.docx)  
+  - [第三話 三年後.pdf](https://zhanghd.tech/saenai-movie-novelty/Three-Years-Later/03.pdf)  
+- **第4週目特典 冴えない彼女の育てかた After [Four Years Later]**:   
+  - 待更新  
+- **第5週目特典 冴えない彼女の育てかた After**:   
+  - 待更新   
+- **第6週目特典 冴えない彼女の育てかた After**:   
+  - 待更新 
+- **第7週目特典 冴えない彼女の育てかた After**:   
+  - 待更新   
+
