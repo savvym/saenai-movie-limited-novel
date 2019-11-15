@@ -25,7 +25,7 @@
 コンビを組んだ新作のヒットにより、新たな境地を切り開いた英梨々と詩羽。
 二人でドライブしながら、「次の作品」について話し始める。  
 ```  
-**第三話 三年後(汉化)**: 03汉化.html(在做了)  
+**第三話 三年後(汉化)**: [03汉化.html](https://zhanghd.tech/saenai-movie-novelty/Three-Years-Later/cn03.html)  
 **第三話 三年後(生肉)**: [03生肉.html](https://zhanghd.tech/saenai-movie-novelty/Three-Years-Later/03.html)  
 + ### 第4週目特典 冴えない彼女の育てかた After 
 ```
