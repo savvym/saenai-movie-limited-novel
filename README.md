@@ -54,7 +54,7 @@
 ```  
 **待更新······**  
 
-## Word文档下载：
+## 日文原版Word文档下载：
 - **第1週目特典 冴えない彼女の育てかた After [One Year Later]**:   
   - [第一話 一年後.docx](https://zhanghd.tech/saenai-movie-novelty/One-Year-Later/01.docx)  
   - [第一話 一年後.pdf](https://zhanghd.tech/saenai-movie-novelty/One-Year-Later/01.pdf)   
