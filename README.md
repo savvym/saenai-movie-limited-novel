@@ -27,7 +27,7 @@
 ```  
 **第三話 三年後(汉化)**: [03汉化.html](https://zhanghd.tech/saenai-movie-novelty/Three-Years-Later/cn03.html)  
 **第三話 三年後(生肉)**: [03生肉.html](https://zhanghd.tech/saenai-movie-novelty/Three-Years-Later/03.html)  
-+ ### 第4週目特典 冴えない彼女の育てかた After 
++ ### 第4週目特典 冴えない彼女の育てかた After [Four Years Later]  
 ```
 あれから４年。
 新作が再び実写映画化されることになった詩羽は、「原作者特権」で美智留をキャスティングした。
