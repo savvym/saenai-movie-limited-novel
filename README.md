@@ -33,9 +33,9 @@
 新作が再び実写映画化されることになった詩羽は、「原作者特権」で美智留をキャスティングした。
 撮影現場で顔を合わせた二人の話題は、自然と「blessing software」の近況に流れていく。  
 ```  
-**第四話 四年後(汉化)**: 04汉化.html  
+**第四話 四年後(汉化)**: [04汉化.html](https://zhanghd.tech/saenai-movie-novelty/Four-Years-Later/cn04.html)  
 **第四話 四年後(生肉)**: [04生肉.html](https://zhanghd.tech/saenai-movie-novelty/Four-Years-Later/04.html)  
-+ ### 第5週目特典 冴えない彼女の育てかた After 
++ ### 第5週目特典 冴えない彼女の育てかた After [Five Years Later]
 ```
 あれから５年。
 倫也ら「blessing software」は、伊織がマルズから請け負った炎上案件のサルベージ仕事に悲鳴を上げていた。
@@ -68,7 +68,7 @@
 - **第4週目特典 冴えない彼女の育てかた After [Four Years Later]**:   
   - [第四話 四年後.docx](https://zhanghd.tech/saenai-movie-novelty/Four-Years-Later/04.docx)  
   - [第四話 四年後.pdf](https://zhanghd.tech/saenai-movie-novelty/Four-Years-Later/04.pdf)  
-- **第5週目特典 冴えない彼女の育てかた After**:   
+- **第5週目特典 冴えない彼女の育てかた After [Five Years Later]**:   
   - 待更新   
 - **第6週目特典 冴えない彼女の育てかた After**:   
   - 待更新 
