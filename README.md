@@ -41,7 +41,8 @@
 倫也ら「blessing software」は、伊織がマルズから請け負った炎上案件のサルベージ仕事に悲鳴を上げていた。
 だがその状況は、恵にとっては非常に不本意で……。  
 ```  
-**待更新······**  
+**第五話 五年後(汉化)**: 05汉化.html(待更新)  
+**第五話 五年後(生肉)**: [05生肉.html](https://zhanghd.tech/saenai-movie-novelty/Five-Years-Later/05.html)  
 + ### 第6週目特典 冴えない彼女の育てかた After 
 ```
 あれから6年。
@@ -69,7 +70,8 @@
   - [第四話 四年後.docx](https://zhanghd.tech/saenai-movie-novelty/Four-Years-Later/04.docx)  
   - [第四話 四年後.pdf](https://zhanghd.tech/saenai-movie-novelty/Four-Years-Later/04.pdf)  
 - **第5週目特典 冴えない彼女の育てかた After [Five Years Later]**:   
-  - 待更新   
+  - [第五話 五年後.docx](https://zhanghd.tech/saenai-movie-novelty/Five-Years-Later/05.docx)  
+  - [第五話 五年後.pdf](https://zhanghd.tech/saenai-movie-novelty/Five-Years-Later/05.pdf)    
 - **第6週目特典 冴えない彼女の育てかた After**:   
   - 待更新 
 - **第7週目特典 冴えない彼女の育てかた After**:   
