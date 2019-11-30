@@ -49,7 +49,8 @@
 親戚一同がお盆で集まった加藤宅で、恵は姉から「将来」について問い詰められる。
 一方その頃、長野の実家に帰省した倫也もまた、親族から同様の煽りを受け続けていた。  
 ```  
-**待更新······**  
+**第六話 六年後(前編)(汉化)**: 06part1汉化.html  
+**第六話 六年後(前編)(生肉)**: [06part1生肉.html](https://zhanghd.tech/saenai-movie-novelty/Six-Years-Later-Part1/06part1.html)    
 + ### 第7週目特典 冴えない彼女の育てかた After 
 ```
 ※本特典の内容は劇場でご確認ください。  
@@ -72,8 +73,9 @@
 - **第5週目特典 冴えない彼女の育てかた After [Five Years Later]**:   
   - [第五話 五年後.docx](https://zhanghd.tech/saenai-movie-novelty/Five-Years-Later/05.docx)  
   - [第五話 五年後.pdf](https://zhanghd.tech/saenai-movie-novelty/Five-Years-Later/05.pdf)    
-- **第6週目特典 冴えない彼女の育てかた After**:   
-  - 待更新 
+- **第6週目特典 冴えない彼女の育てかた After [Six Years Later Part.1]**:   
+  - [第六話 六年後(前編).docx](https://zhanghd.tech/saenai-movie-novelty/Six-Years-Later-Part1/06part1.docx)
+  - [第六話 六年後(前編).pdf](https://zhanghd.tech/saenai-movie-novelty/Six-Years-Later-Part1/06part1.pdf)
 - **第7週目特典 冴えない彼女の育てかた After**:   
   - 待更新   
 
