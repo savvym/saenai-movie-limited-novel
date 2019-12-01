@@ -43,7 +43,7 @@
 ```  
 **第五話 五年後(汉化)**: [05汉化.html](https://zhanghd.tech/saenai-movie-novelty/Five-Years-Later/cn05.html)  
 **第五話 五年後(生肉)**: [05生肉.html](https://zhanghd.tech/saenai-movie-novelty/Five-Years-Later/05.html)  
-+ ### 第6週目特典 冴えない彼女の育てかた After 
++ ### 第6週目特典 冴えない彼女の育てかた After [Six Years Later Part.1]
 ```
 あれから6年。
 親戚一同がお盆で集まった加藤宅で、恵は姉から「将来」について問い詰められる。
