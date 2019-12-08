@@ -55,8 +55,8 @@
 ```
 ※本特典の内容は劇場でご確認ください。  
 ```  
-**第六話 六年後(後編)(汉化)**  06part2汉化.html(待更新)  
-**第六話 六年後(後編)(生肉)**  [06part2生肉.pdf](https://zhanghd.tech/saenai-movie-novelty/Six-Years-Later-Part2/06part2.pdf)    
+**第七話 六年後(後編)(汉化)**  [06part2汉化.html](https://zhanghd.tech/saenai-movie-novelty/Six-Years-Later-Part2/06part2.html)(更新中……)  
+**第七話 六年後(後編)(生肉)**  [06part2生肉.pdf](https://zhanghd.tech/saenai-movie-novelty/Six-Years-Later-Part2/06part2.pdf)    
 ## 日文原版Word文档下载：
 - **第1週目特典 冴えない彼女の育てかた After [One Year Later]**:   
   - [第一話 一年後.docx](https://zhanghd.tech/saenai-movie-novelty/One-Year-Later/01.docx)  
