@@ -1,8 +1,15 @@
 # 不起眼剧场版特典小说
 ## About
-特典小说一共7本，电影上映一周一本，生肉为小说扫描之后经过识别+人工校对之后的结果，翻译版本为贴吧等找的翻译版本，保留汉化信息
-
-## 在线查看
+特典小说一共7本，电影上映一周一本，生肉为小说扫描之后经过识别+人工校对之后的结果，翻译版本为贴吧等找的翻译版本，保留汉化信息  
+## 轻国翻译版本：  
+1. [[悠月汉化组][丸户史明] 路人女主的养成方法 After 第一话](https://www.lightnovel.cn/thread-1012856-1-1.html)  
+2. [[悠月汉化组][丸户史明] 路人女主的养成方法 After 第二话](https://www.lightnovel.cn/thread-1012959-1-1.html)   
+3. [[悠月汉化组][丸户史明] 路人女主的养成方法 After 第三话 败犬交流大会！](https://www.lightnovel.cn/thread-1013033-1-1.html)  
+4. [[悠月汉化组][丸户史明] 路人女主的养成方法 After 第四话](https://www.lightnovel.cn/thread-1013081-1-1.html)  
+5. [[悠月汉化组][丸户史明] 路人女主的养成方法 After 第五话 末尾有鸳鸯戏水~](https://www.lightnovel.cn/thread-1013176-1-1.html)  
+6. [[悠月汉化组][丸户史明] 路人女主的养成方法 After 第六话，圣诞节晚间最后一话，大家准备接狗粮](https://www.lightnovel.cn/thread-1013284-1-1.html)  
+7. [[悠月汉化组][丸户史明] 路人女主的养成方法 After 第七话，求婚狗粮满天飞，单身狗们皆（嗟）来食！](https://www.lightnovel.cn/thread-1013386-1-1.html)  
+## 贴吧版本翻译：
 + ### 第1週目特典 冴えない彼女の育てかた After [One Year Later]  
 ```
 あれから１年。
@@ -57,7 +64,7 @@
 ```  
 **第七話 六年後(後編)(汉化)**  [06part2汉化.html](https://zhanghd.tech/saenai-movie-novelty/Six-Years-Later-Part2/cn06part2.html)  
 **第七話 六年後(後編)(生肉)**  [06part2生肉.pdf](https://zhanghd.tech/saenai-movie-novelty/Six-Years-Later-Part2/06part2.pdf)    
-## 日文原版Word文档下载：
+## 日文下载：
 - **第1週目特典 冴えない彼女の育てかた After [One Year Later]**:   
   - [第一話 一年後.docx](https://zhanghd.tech/saenai-movie-novelty/One-Year-Later/01.docx)  
   - [第一話 一年後.pdf](https://zhanghd.tech/saenai-movie-novelty/One-Year-Later/01.pdf)   
