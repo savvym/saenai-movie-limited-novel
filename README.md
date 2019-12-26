@@ -2,7 +2,7 @@
 ## About  
 特典小说一共7本，电影上映一周一本，生肉为小说扫描之后经过识别+人工校对之后的结果，翻译版本为贴吧等找的翻译版本，保留汉化信息   
 ## 轻国翻译版本：  
-1. [[悠月汉化组][丸户史明] 路人女主的养成方法 After 第一话](https://zhanghd.tech/saenai-movie-novelty/One-Year-Later/01.md)  
+1. [[悠月汉化组][丸户史明] 路人女主的养成方法 After 第一话](https://zhanghd.tech/saenai-movie-novelty/One-Year-Later/)  
 2. [[悠月汉化组][丸户史明] 路人女主的养成方法 After 第二话](https://www.lightnovel.cn/thread-1012959-1-1.html)   
 3. [[悠月汉化组][丸户史明] 路人女主的养成方法 After 第三话 败犬交流大会！](https://www.lightnovel.cn/thread-1013033-1-1.html)  
 4. [[悠月汉化组][丸户史明] 路人女主的养成方法 After 第四话](https://www.lightnovel.cn/thread-1013081-1-1.html)  
